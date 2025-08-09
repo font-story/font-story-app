@@ -1,33 +1,33 @@
-# ✨ FontStory App
+# ✨ Font Story App
 
-**FontStory** is a fantasy-powered, open-source Flutter app that lets you create, remix, and share beautifully styled text using layered effects and custom fonts — all powered by simple JSON.
+**Font Story** is a fantasy-powered, open-source Flutter app that lets you create, remix, and share beautifully styled text using layered effects and custom fonts — all powered by simple JSON.
 
 <p align="center">
-  <img src="banner.png" alt="FontStory Banner" width="100%" />
+  <img src="banner.png" alt="Font Story Banner" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://flutter.dev">
     <img src="https://img.shields.io/badge/Built%20With-Flutter-blue?logo=flutter" />
   </a>
-  <a href="https://github.com/FontStory/font-story-app/releases">
-    <img src="https://img.shields.io/github/v/release/FontStory/font-story-app" />
+  <a href="https://github.com/font-story/font-story-app/releases">
+    <img src="https://img.shields.io/github/v/release/Font Story/font-story-app" />
   </a>
-  <a href="https://github.com/FontStory/font-story-app/issues">
-    <img src="https://img.shields.io/github/issues/FontStory/font-story-app" />
+  <a href="https://github.com/font-story/font-story-app/issues">
+    <img src="https://img.shields.io/github/issues/Font Story/font-story-app" />
   </a>
-  <a href="https://github.com/FontStory/font-story-app/stargazers">
-    <img src="https://img.shields.io/github/stars/FontStory/font-story-app?style=social" />
+  <a href="https://github.com/font-story/font-story-app/stargazers">
+    <img src="https://img.shields.io/github/stars/Font Story/font-story-app?style=social" />
   </a>
 </p>
 
-## 📲 Try FontStory
+## 📲 Try Font Story
 
 | Platform       | Link                                                                 |
 |----------------|----------------------------------------------------------------------|
 | 📦 Google Play  | [Coming Soon](#) |
 | 🌐 Web         | [Coming Soon](#)                        |
-| 📁 APK         | [Download Latest APK](https://github.com/FontStory/font-story-app/releases/latest/download/app-release.apk) |
+| 📁 APK         | [Download Latest APK](https://github.com/font-story/font-story-app/releases/latest/download/app-release.apk) |
 
 > No account. No ads. Just pure, creative fun — online or offline.
 
@@ -54,7 +54,7 @@
 Clone the repository and run the app:
 
 ```bash
-git clone https://github.com/FontStory/font-story-app.git
+git clone https://github.com/Font Story/font-story-app.git
 cd font-story-app
 flutter pub get
 flutter run
@@ -140,7 +140,7 @@ lib/                         # All Dart source code
 
 ## 📦 Dependencies & Packages
 
-This Flutter app, **FontStory**, uses a wide range of packages to provide powerful features, localization, networking, state management, UI components, and more.
+This Flutter app, **Font Story**, uses a wide range of packages to provide powerful features, localization, networking, state management, UI components, and more.
 
 ### 🛠 Core Dependencies
 
@@ -190,20 +190,20 @@ This Flutter app, **FontStory**, uses a wide range of packages to provide powerf
 
 The app loads styles and fonts from a separate data repository:
 
-> 📦 [`font-story-data`](https://github.com/FontStory/font-story-data)  
+> 📦 [`font-story-data`](https://github.com/Font Story/font-story-data)  
 > Contains all styles, fonts, thumbnails, and contributors.
 
 You can contribute styles and fonts **without writing Flutter code** →  
-See the [`font-story-data`](https://github.com/FontStory/font-story-data) repo for instructions.
+See the [`font-story-data`](https://github.com/Font Story/font-story-data) repo for instructions.
 
 
 ## 🛠 Contributing to the App
 
-Love Flutter? Help improve FontStory:
+Love Flutter? Help improve Font Story:
 
 ```bash
 # Fork and clone
-git clone https://github.com/FontStory/font-story-app.git
+git clone https://github.com/Font Story/font-story-app.git
 
 # Create a new branch
 git checkout -b feature/your-feature
@@ -235,5 +235,5 @@ We're open to:
 ## 📄 License
 
 This project is licensed under the [`Apache License 2.0`](./LICENSE).  
-You may freely use, modify, and distribute the styles and fonts, but the use of the name or logo “FontStory” is strictly prohibited in any form.  
+You may freely use, modify, and distribute the styles and fonts, but the use of the name or logo “Font Story” is strictly prohibited in any form.  
 See the [`LICENSE`](./LICENSE) file for full details.
