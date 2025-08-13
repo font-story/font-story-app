@@ -229,7 +229,7 @@ We're open to:
 
 | Maintainer | Instagram | Telegram | X / Twitter | Gmail |
 |------------|-----------|----------|-------------|-------|
-| [@ariaramin](https://github.com/ariaramin) | [📸 Instagram](https://instagram.com/aria._.ramin) | [✈️ Telegram](https://t.me/ariaramin7) | [🐦 X/Twitter](https://x.com/ariaramin7) | [📬 Gmail](mailto:ariaramin24@gmail.com) |
+| [@ariaramindev](https://github.com/ariaramindev) | [📸 Instagram](https://instagram.com/ariaramin.dev) | [✈️ Telegram](https://t.me/ariaramin7) | [🐦 X/Twitter](https://x.com/ariaramin7) | [📬 Gmail](mailto:ariaramindev84@gmail.com) |
 
 
 ## 📄 License
